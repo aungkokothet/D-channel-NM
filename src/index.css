@@ -64,7 +64,7 @@ input:focus {
   .form {
     width: 500px;
     margin: 7% auto 0;
-    padding: 20px;
+    padding: 20px 0 50px 0;
     border: 1px solid #ffc107bf;
   }
 

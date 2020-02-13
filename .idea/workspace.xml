@@ -3,38 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c50cf19b-989f-4039-b178-6279a10aefc5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/bulk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/customer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/customer/customerInfo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/customer/customerNew.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/customer/detail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/dashboard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/discount/edit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/discount/list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/discount/new.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/hello.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/json/open.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/login.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/menu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/order.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/order/deliver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/order/deliverdetail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/order/detail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/order/open.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/order/paid-detail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/order/paid.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/order/received.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/order/receivedetail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/product.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/product/Allproduct.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/product/active.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/product/detail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/product/productNew.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/register.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/rule.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +158,7 @@
       <workItem from="1575282229767" duration="352000" />
       <workItem from="1575282603059" duration="162000" />
       <workItem from="1575360868490" duration="918000" />
-      <workItem from="1581574068195" duration="2488000" />
+      <workItem from="1581574068195" duration="2884000" />
     </task>
     <servers />
   </component>
