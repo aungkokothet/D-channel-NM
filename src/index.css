@@ -43,7 +43,7 @@ input:focus {
 .form input, .form button {
     display: block;
     margin: 0 auto;
-    padding: 8px 0;
+    padding: 8px 15px;
     width: 80%;
 }
 
@@ -51,6 +51,9 @@ input:focus {
     margin-top: 15px;
     border: 0;
     border-bottom: 1px solid #ffc107bf;
+}
+.form input:focus {
+    border-bottom: 2px solid #ffc107bf;
 }
 
 .btn-com {
@@ -60,6 +63,9 @@ input:focus {
     border: 0;
 }
 
+.cl-white {
+    color: #fff;
+}
 
 @media screen and (max-width: 1200px) {
 

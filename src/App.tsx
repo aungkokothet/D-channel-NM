@@ -4,6 +4,8 @@ import {
     BrowserRouter as Router,
 } from "react-router-dom";
 import Login from './containers/login';
+import Register from './containers/register';
+import Form from './containers/form';
 
 class App extends Component {
     render(){
@@ -13,6 +15,8 @@ class App extends Component {
                 <div>
                     <Route exact path="/login" component={Login}/>
                     <Route exact path="/" component={Login}/>
+                    <Route path="/register" component={Register}/>
+                    <Route path="/form" component={Form}/>
                 </div>
             </Router>
         );

@@ -1,5 +1,7 @@
 import React,{ Component } from 'react';
 import dchannel from './../img/dchannel.jpg';
+import { Link } from 'react-router-dom';
+
 class Login extends Component {
 
     constructor() {
@@ -55,13 +57,12 @@ class Login extends Component {
                         <p className="orange none">Login</p>
                         <div className="form">
                             <div className="login-icon text-center">
-
                                 <img src={dchannel} alt="dchannel"/>
                             </div>
                             <input type="text" name="" placeholder="Phone No" required=""></input>
                             <input type="password" name="" placeholder="Password" required=""></input>
                                     <button className="btn-com">SIGN IN</button>
-                                    <button className="btn-com">REGISTER</button>
+                                    <button className="btn-com"><Link to="/register" className="cl-white" value="register">REGISTER</Link></button>
                         </div>
                     </div>
                 </div>
